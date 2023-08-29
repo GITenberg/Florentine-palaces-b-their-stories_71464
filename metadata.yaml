@@ -5,6 +5,9 @@ contributor:
     agent_name: Marchi, Adelaide
     gutenberg_agent_id: '56254'
     url: http://www.gutenberg.org/2009/agents/56254
+covers:
+- cover_type: archival
+  image_path: 71464-h/images/cover.jpg
 creator:
   author:
     agent_name: Ross, Janet
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7618
     wikipedia: https://en.wikipedia.org/wiki/Janet_Ross
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71464#Florentine-palaces-b-their-stories
 gutenberg_issued: '2023-08-21'
 identifiers:
   gutenberg: '71464'
